@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3002
     wikipedia: http://en.wikipedia.org/wiki/Edward_Henry_Peple
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42822#SemiramisA-Tale-of-Battle-and-of-Love
 gutenberg_issued: '2013-05-27'
 gutenberg_type: Text
 identifiers:
